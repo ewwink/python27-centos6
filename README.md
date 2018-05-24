@@ -1,7 +1,7 @@
 
 # Python 2.7 RPM built for RHEL/Centos 6.x
 
-**Description**:  RHEL 6.x comes with Python 2.6 installed.  This project contains a SPEC file for building an RPM that compiles Python 2.7 and installs pip and virtualenv.
+**Description**:  RHEL 6.x comes with Python 2.6 installed.  This project contains Python RPM Package and a SPEC file for building an RPM that compiles Python 2.7 and installs pip and virtualenv.
 
 ## Dependencies
 
